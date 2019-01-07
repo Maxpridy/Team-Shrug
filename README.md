@@ -24,7 +24,7 @@ python train.py
 
 
 ### 2. inference
-저장 경로는 기본적으로 상위 폴더(../)이며 이 폴더에 "UmsoImg_v2_e00"와 같은 이름으로 저장됩니다.  
+저장 경로는 기본적으로 상위 폴더(../)이며 이 폴더에 "UmsoImg_v2_e00"와 같은 이름으로 저장된다.  
 
 ```bash
 python inference.py  # default UmsoImg_v2_e31
@@ -44,4 +44,4 @@ https://drive.google.com/file/d/1ltPPALttaP5s_R4_gVbO4ByOpl2-gzfi/view?usp=shari
 
 ## Link
 1. [Kakao Arena](https://arena.kakao.com/)  
-2. [Maxpridy의 카카오 아레나를 마치고 느낀점](https://www.naver.com/)
+2. [Maxpridy의 카카오 아레나를 마치고 느낀점](https://www.naver.com/)(임시)
