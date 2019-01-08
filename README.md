@@ -44,4 +44,4 @@ https://drive.google.com/file/d/1ltPPALttaP5s_R4_gVbO4ByOpl2-gzfi/view?usp=shari
 
 ## Link
 1. [Kakao Arena](https://arena.kakao.com/)  
-2. [Maxpridy의 카카오 아레나를 마치고 느낀점](https://www.naver.com/)(임시)
+2. [Maxpridy의 카카오 아레나를 마치고 느낀점](https://blog.naver.com/dustashy/221437058049)
